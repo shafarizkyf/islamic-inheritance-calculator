@@ -1,0 +1,29 @@
+{
+  "name": "islamic-inheritance-calculator",
+  "version": "1.0.0",
+  "description": "A simple library for calculating Islamic inheritance shares (experimental)",
+  "main": "dist/inheritance.js",
+  "types": "dist/inheritance.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --silent=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shafarizkyf/islamic-inheritance-calculator"
+  },
+  "keywords": [
+    "islamic",
+    "inheritance",
+    "sharia",
+    "calculator"
+  ],
+  "author": "shafarizkyf",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.8.2"
+  }
+}

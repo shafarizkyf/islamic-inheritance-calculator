@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",        // Output compiled files in the "dist" folder
+    "rootDir": "src",        // Source files are inside the "src" folder
+    "module": "CommonJS",
+    "target": "ES6",
+    "declaration": true,     // Generates .d.ts type definition files
+    "strict": true
+  },
+  "include": ["src"],        // Only compile files inside "src"
+  "exclude": ["node_modules", "dist"]
+}
