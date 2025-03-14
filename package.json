@@ -1,6 +1,6 @@
 {
   "name": "islamic-inheritance-calculator",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A simple library for calculating Islamic inheritance shares (experimental)",
   "main": "dist/inheritance.js",
   "types": "dist/inheritance.d.ts",
