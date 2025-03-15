@@ -13,7 +13,7 @@ This package provides a calculation engine for Islamic inheritance distribution 
 
 ### 📦 Installation
 ```
-[wip]
+npm i islamic-inheritance-calculator
 ```
 
 ### 🛠 Usage
